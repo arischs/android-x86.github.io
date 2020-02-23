@@ -1,5 +1,8 @@
 @import "common.css";
 
+@media(prefers-color-scheme: dark){
+
+
 body{
   color: #dad7d7;
 }
@@ -39,4 +42,6 @@ div.gallery:hover {
   border: 1px solid #4a4a4c!important;
   background: #333232;
   border-radius: 15px;
+}
+
 }
