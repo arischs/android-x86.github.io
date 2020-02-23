@@ -1,5 +1,7 @@
 @import "common.css";
 
+@media (prefers-color-scheme: light){
+
 body{
   color: #666666;
 }
@@ -51,4 +53,5 @@ div.gallery:hover {
   border: 2px solid #e9e9ea!important;
   background: #ffffff;
   border-radius: 15px;
+}
 }
